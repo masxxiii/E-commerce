@@ -68,3 +68,10 @@ ability to add a product.
 </p>
 
 ---
+
+## Usage
+
+Feel free to download the project and build upon it. You can add
+new features, refactor the code if you'd like and improve 
+the authentication. You will have a working E-commerce app to 
+deploy on the web in no time. Happy coding!
