@@ -1,0 +1,148 @@
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+  
+.form-control-dark {
+    color: #fff;
+    background-color: var(--bs-dark);
+    border-color: var(--bs-gray);
+}
+
+ .form-control-dark:focus {
+    color: #fff;
+    background-color: var(--bs-dark);
+    border-color: #fff;
+    box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+}
+  
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+  
+.text-small {
+    font-size: 85%;
+}
+  
+.dropdown-toggle {
+    outline: 0;
+}
+
+.bg-dark {
+    background-color: #07689f!important;
+}
+
+.brand {
+    font-family: 'Sacramento';
+    font-size: 2.3rem;
+    font-weight: bolder;
+    margin-right: 0;
+    color: #fafafa;
+}
+
+.button-header {
+    border-color: #07689f;
+}
+
+.svg {
+    width: 25px;
+    height: 25px;
+}
+
+.center-text {
+    text-align: center;
+    font-family: 'Montserrat';
+}
+
+.product {
+    padding-top: 100px;
+}
+
+.picture {
+    text-align: center;
+    overflow: hidden;
+
+}
+
+.name {
+    padding-top: 25px;
+    font-family: 'Merriweather';
+    color: #07689f;
+    padding-bottom: 10px;
+}
+
+.seller {
+    font-family: 'Merriweather';
+    color: #ff7e67;
+}
+
+.description {
+    padding-top: 20px;
+    font: 'Merriweather';
+    font-style: italic;
+    text-align: justify;
+    width: 450px;
+}
+
+.icons {
+    padding-top: 50px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100px;
+}
+
+.icons-products {
+    color: #ff7e67;
+}
+
+.greeting {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: 'Montserrat';
+    color: #ff7e67;
+}
+
+.text-top {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 75px;
+    font-family: 'Montserrat';
+    color: #ff7e67;
+}
+
+.form-add {
+    align-content: center;
+
+}
+
+.form-control-lg {
+    font-family: 'Merriweather';
+}
+
+.form-group {
+    font-family: 'Merriweather';
+    padding-top: 25px;
+}
+
+.container-fluid {
+    padding-left: 77px;
+    padding-right: 77px;
+}
+
+.table {
+    font-family: 'Merriweather';
+}
+
+.thead-dark {
+    background-color: #07689f;
+    color: #fafafa;
+}
+
+.col-rem {
+    text-align: center;
+}
