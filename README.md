@@ -23,6 +23,8 @@ functionalities of an online shop.
 <img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
+<br />
+
 ---
 
 <p align="center">
@@ -65,10 +67,4 @@ ability to add a product.
   <img src="./imgGit/wishlist.png" alt="Landing page" width="750">
 </p>
 
-<p align="center">
-  <img src="./imgGit/cart.png" alt="Landing page" width="750">
-</p>
-
 ---
-
-
