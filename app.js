@@ -58,21 +58,7 @@ app.set('view engine','ejs');
 /* user variable to roam around webpages */
 var un = "";
 
-app.get("/",function(req,res){
 
-    Product.find({},function(err,result){
-        if (err)
-        {
-            console.log(err);
-        }
-        else
-        {
-            res.render("home", {
-                foundProducts: result
-            });
-        }
-    });
-});
 
 
 app.get("/v",function(req,res){
